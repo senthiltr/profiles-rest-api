@@ -44,7 +44,7 @@ openstacksdk==0.11.3
 os-service-types==1.2.0
 packaging==16.8
 parsel==1.4.0
-petl==1.1.1
+petl==1.6.8
 post==0.0.13
 public==0.0.0
 py==1.4.33
