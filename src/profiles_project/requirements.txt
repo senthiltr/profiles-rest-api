@@ -58,7 +58,7 @@ pyparsing==2.2.0
 pytest==3.0.7
 python-dateutil==2.6.1
 python-twitter==3.4
-PyYAML==3.12
+PyYAML==5.4
 query-string==0.0.0
 queuelib==1.4.2
 request==0.0.13
