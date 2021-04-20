@@ -47,7 +47,7 @@ parsel==1.4.0
 petl==1.1.1
 post==0.0.13
 public==0.0.0
-py==1.4.33
+py==1.10.0
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pycparser==2.18
