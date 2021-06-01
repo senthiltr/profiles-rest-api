@@ -76,7 +76,7 @@ sqlparse==0.2.4
 stevedore==1.28.0
 tempita==0.5.3.dev0
 uncompyle6==2.16.0
-urllib3==1.21.1
+urllib3==1.26.5
 virtualenv==15.1.0
 w3lib==1.19.0
 webencodings==0.5.1
